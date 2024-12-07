@@ -1,8 +1,3 @@
-
-
-
-
-
 def main():
     safe_reports = 0
     extra_reports = 0

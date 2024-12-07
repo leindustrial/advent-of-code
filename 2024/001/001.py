@@ -1,4 +1,3 @@
-
 list_left = []
 list_right = []
 list_dist = []
